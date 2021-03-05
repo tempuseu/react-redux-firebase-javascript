@@ -4,7 +4,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## About Project -
+## About Project :
 
 - This is a template built upon create-react-app
 - redux and firebase config are already setup, along with firebase authentication (Google)
